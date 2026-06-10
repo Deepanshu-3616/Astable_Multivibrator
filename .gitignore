@@ -1,0 +1,8 @@
+# KiCad specific ignores
+*.bck
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.sch-bak
+_autosave-*
+fp-info-cache
