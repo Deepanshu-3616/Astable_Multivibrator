@@ -1,26 +1,12 @@
-\# 555 Timer Astable Multivibrator
+## Visuals
 
-
-
-A clean, minimalist printed circuit board design for a classic 555 timer configured in astable mode, generating a continuous square wave output.
-
-
-
-\## Overview
-
-This project contains the complete hardware design files required to manufacture the PCB, structured for clarity and professional review.
-
-
-
-\* \*\*EDA Tool:\*\* KiCad
-
-\* \*\*Circuit Type:\*\* Astable Multivibrator
-
-\* \*\*Core IC:\*\* NE555
-
-
-
-\## Repository Structure
-
-\* `/Hardware`: Contains the core KiCad schematic and PCB layout source files.
-
+<table style="width:100%">
+  <tr>
+    <th style="text-align:center">3D Render</th>
+    <th style="text-align:center">PCB Routing</th>
+  </tr>
+  <tr>
+    <td style="width:50%"><img src="docs/3d_render.png" alt="3D Render of PCB" width="100%"></td>
+    <td style="width:50%"><img src="docs/routing_board.png" alt="PCB Routing Board" width="100%"></td>
+  </tr>
+</table>
